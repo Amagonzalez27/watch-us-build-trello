@@ -8,7 +8,6 @@
         :columnIndex="$columnIndex"
         :board="board"
       />
-
       <div class="column flex">
         <input
           class="p-2 mr-2 flex-grow"
